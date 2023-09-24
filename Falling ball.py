@@ -133,7 +133,7 @@ while running:
 
     record = game_font.render(str(int(time)), True, (0,0,0))
 
-#5. representing all things on the screen
+#5. Represent all on the screen
     screen.blit(background, (0,0))
     screen.blit(character, (character_x_pos, character_y_pos))
     screen.blit(ball, (ball_x_pos, ball_y_pos))
