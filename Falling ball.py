@@ -14,7 +14,7 @@ game_result = "Game Over"
 #FPS
 clock = pygame.time.Clock()
 
-# initializing (user's own)
+# initializing
 
 # 1. game intialization (background, game image, coordination, moving speed, font, collision...)
 background = pygame.image.load("/Users/user/Desktop/VS_code/pygame/pygame_basic/real_backgroun.png")
